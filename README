@@ -1,0 +1,6 @@
+-->To run the project code, type this on the terminal:		
+	python3 manage.py runserver
+
+-->To access the user interface:	
+	1.Open any browser
+	2.Type "localhost:8000" in the address bar
